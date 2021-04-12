@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   margin-left: 19%;
+  margin-top: 0px;
+  background-color: blueviolet;
+}
+#name{
+    margin-left: 20px;
+    width: 84%;
+    padding: 6px;
+    border-radius: 5%;
+    outline: 0;
+    border: 2px solid blue;
+
+}
+.logo img{
+    margin-top: 0px;
+    margin-left: -36px;
+    width: 877px;
+    height: 130px;
+    margin-bottom: 6px;
+    }
+table{
+    width: 877px;
+    height: 110px;
+    /* -content: center; */
+    margin-left: -35px;
+    color: black;
+    background-color: yellowgreen;
+    /* border-collapse: collapse; */
+    font-size: 16px;
+    font-family: serif;
+    padding: 5px;
+    border: 5px solid white;
+    /* text-align: -webkit-center;*/
+} 
+#sub{
+    margin-left: 270px;
+    padding: 4px 13px 2px 11px;
+    border: 2px solid blue;
+}
+#select{
+    padding: 4px 13px 2px 11px;
+    border: 2px solid rgb(228, 16, 182);
+}
+#selec{
+    margin-right: 10px;
+    padding: 4px 13px 2px 11px;
+    border: 2px solid rgb(228, 16, 182);
+}
+#Gender{
+    padding: 4px 13px 2px 11px;
+    border: 5px solid rgb(228, 16, 182);
+}
+#pdf{
+    background-color: red;
+    margin-left: 13px;
+    width: 20%;
+    /* padding: 6px;
+    border-radius: 5%;
+    outline: 0; */
+   
+}

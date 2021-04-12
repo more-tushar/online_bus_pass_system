@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+   /* this tag is yous for background img */
+  body { 
+    background-attachment: fixed;
+    text-align: justify; 
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 0px;
+  }
+  header {
+      margin-top: 0px;
+	background:#D2691E;
+	color:white;
+    padding: 8px 0px 6px 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.lo{
+    height: 24px;
+	background-color:DodgerBlue;
+	font-family:'Montserrat', sans-serif;
+    font-size: 18px;
+    padding-right: 0px;
+    padding-left: 270px;
+    margin-top: 0px; 
+    margin-right: 0px;
+    color: white;
+}
+.loo{
+     margin-left: 83px;
+}
+.log{
+	height: 5px;
+    background-color: black;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.logo img{
+    width: 1004px;
+    height: 110px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    }
+    /* this class id is yous for logoo */
+.logoo{
+        background-color: #DAA520;
+        height: 4px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+         }
+nav ul {
+   display: inline;
+   padding: 0px;     
+    }
+nav ul li{
+              display: inline-block;
+             list-style-type: none;
+             left: 10px;      
+           }
+nav ul li a{
+            color: white;
+            text-decoration: none;
+            margin-left: 10px; 
+           }
+#nav{
+            font-family:'Montserrat', sans-serif;
+          }
+.red{
+       background-color:#DAA520;
+       padding: 8px 6px 6px 5px;
+       margin-top: 0px;
+      }
+.balck:hover{
+               background-color:blue;
+               padding: 8px 6px 6px 5px;
+               margin-top: 0px;
+              }
+              
+
+          /* .................  this css is use for only.................login form */
+          .form-area{
+	width:400px;
+	height:355px;
+	margin: 60px auto 0;
+	position:relative;
+	background: rgba(0,0,0,0.4);
+	text-align:center;
+	margin-top: 19px;
+	padding: 35px;
+	border :3px solid #fff;
+	
+	border-radius: 100px 100px 100px 100px;
+	
+}
+.form-area h2
+{
+	margin-bottom: 45px;
+	color: black;
+	
+}
+.img-area
+{
+	width: 50px;
+	height: 50px;
+	background:tomato;
+	position:absolute;
+	top:-5%;
+	left: 45%;
+}
+.img-area img-area
+{
+	width: 60%;
+	padding: 10px;
+}
+input{
+	width: 100%;
+	height: 50px:
+	border-radius: 15px 0 15px 0;
+	border:2px solid #fff;
+	margin-bottom:15px;
+	background-color:transparent;
+	color: #fff;
+}
+.form-area p
+{
+	text-align:left;
+	color: bla;
+	
+	font-weight:bold;
+}
+.btn
+{
+	display:inline-block;
+    height: 40px;
+    width:150px;
+	line-height:40px;
+	overflow:hidden;
+	position:relative;
+	text-align:center;
+	background: tomato;
+	border-radius: 25px;
+	color:#fff;
+	
+	margin-top:20px;
+	cursor:pointer;
+	text-decoration:none;
+}
+.btn-text
+{
+	display:block;
+	height:100%;
+	position:relative;
+	top:0;
+	-webkit-transition:top 0.6s;
+	-moz-transition:top 0.6s;
+	-ms-transition:top 0.6s;
+	-o-transition:top 0.6s;
+	transition:top 0.6s;
+	width: 100%;
+}
+.btn:hover .btn-text
+{
+	top:-100%;
+}
+.for-pass
+{
+	text-decoration:none;
+	display:block;
+	margin-top: 30px;
+	font-weight:bold;
+	font-size: 20px;
+	color:#fff;
+}		

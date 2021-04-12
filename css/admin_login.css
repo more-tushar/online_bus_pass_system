@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   margin-left: 19%;
+  margin-top: 0px;
+  background-color:#002b29;
+}
+.logo img{
+    margin-top: 0px;
+    margin-left: -36px;
+    width: 877px;
+    height: 130px;
+    margin-bottom: 6px;
+    }
+#name{
+    margin-left: 20px;
+    width: 84%;
+    padding: 6px;
+    border-radius: 5%;
+    outline: 0;
+    border: 2px solid blue;
+
+}
+.logo img{
+    margin-left: -36px;
+    width: 877px;
+    height: 110px;
+    margin-bottom: -4px;
+    }
+table{
+    margin-top: 4px;
+    margin-left: 172px;
+    color: black;
+    background-color: yellowgreen;
+    font-size: 16px;
+    font-family: serif;
+    padding: 5px;
+    border: 5px solid white;
+} 
+
+#pass{
+    margin-left: 105px;
+    width: 108%;
+    padding: 10px;
+    border-radius: 50%;
+    outline: 0;
+    border: 2px solid red;
+}
